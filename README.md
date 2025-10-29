@@ -33,8 +33,8 @@ Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, sempr
 <h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeFerreira&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFerreira&layout=compact&theme=dracula" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeFerreira21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFerreira21&layout=compact&theme=dracula" height="150" alt="Top languages" />
 </div>
 
 ###
@@ -42,10 +42,11 @@ Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, sempr
 <h3 align="left">📫 Connect with me</h3>
 
 <p align="left">
-  <a href=www.linkedin.com/in/guilhermeff45 target="_blank">
+  <a href="https://www.linkedin.com/in/guilhermeff45" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />
   </a>
-  <a href="mailto:guilhermeferreira564@email.com">
+  &nbsp;
+  <a href="mailto:guilhermeferreira564@email.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Email icon" />
   </a>
 </p>
@@ -55,5 +56,16 @@ Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, sempr
 <h3 align="left">🐍 My Contributions</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GuilhermeFerreira/GuilhermeFerreira/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/GuilhermeFerreira21/GuilhermeFerreira21/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+###
+
+<h3 align="left">🚀 Projeto em andamento</h3>
+
+<p align="center">
+  <!-- 🔗 Substitua o link abaixo pelo repositório do seu projeto -->
+  <a href="https://github.com/GuilhermeFerreira21/NomeDoSeuProjeto" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20projeto-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Botão para projeto" />
+  </a>
 </p>
