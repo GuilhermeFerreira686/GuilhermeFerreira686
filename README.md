@@ -1,39 +1,59 @@
-<h1 align="left">👋 Sou Guilherme Ferreira, tenho 21 anos, Apaixonado por tecnologia e inovação, sou estudante de Análise e Desenvolvimento de Sistemas.</h1>
+<h2 align="left">👋 Sou Guilherme Ferreira</h2>
+
+<p align="left">
+Tenho 21 anos e sou apaixonado por <b>tecnologia</b> e <b>inovação</b>.  
+Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, sempre buscando aprimorar minhas habilidades em desenvolvimento e boas práticas de código.
+</p>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<h3 align="left">💡 About me</h3>
+
+- ✨ Criando soluções desde **2022**  
+- 📚 Atualmente aprendendo **Spring Boot** e **boas práticas com Java**  
+- 🎯 Objetivo: me especializar em **desenvolvimento backend** e **integração de sistemas**  
+- 🎲 Curiosidade: gosto de criar pequenos projetos para automatizar tarefas do dia a dia  
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">🧠 I code with</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+</p>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h3 align="left">📊 GitHub Stats</h3>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="C:\Users\guilh\Downloads\spring.webp" height="40" alt="springboot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeFerreira&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFerreira&layout=compact&theme=dracula" height="150" alt="Top languages" />
 </div>
 
 ###
+
+<h3 align="left">📫 Connect with me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/guilhermeferreira" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:guilhermeferreira@email.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" alt="Email icon" />
+  </a>
+</p>
+
+###
+
+<h3 align="left">🐍 My Contributions</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GuilhermeFerreira/GuilhermeFerreira/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
