@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">👋 Sou Guilherme Ferreira, tenho 21 anos, Apaixonado por tecnologia e inovação, sou estudante de Análise e Desenvolvimento de Sistemas.</h1>
 
 ###
 
