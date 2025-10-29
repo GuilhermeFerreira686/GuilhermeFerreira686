@@ -1,4 +1,4 @@
-<h2 align="left">👋 Sou Guilherme Ferreira</h2>
+s<h2 align="left">👋 Sou Guilherme Ferreira</h2>
 
 <p align="left">
 Tenho 21 anos e sou apaixonado por <b>tecnologia</b> e <b>inovação</b>.  
@@ -52,7 +52,7 @@ Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, sempr
 
 <p align="center">
   <!-- 🔗 Substitua o link abaixo pelo repositório do seu projeto -->
-  <a href="https://github.com/GuilhermeFerreira21/NomeDoSeuProjeto" target="_blank">
+  <a href=https://github.com/orgs/LinkEdu-AI/dashboard target="_blank">
     <img src="https://img.shields.io/badge/Acessar%20projeto-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Botão para projeto" />
   </a>
 </p>
