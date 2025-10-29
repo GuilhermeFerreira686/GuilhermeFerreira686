@@ -42,7 +42,7 @@ Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, sempr
 <h3 align="left">📫 Connect with me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/guilhermeferreiraff45" target="_blank">
+  <a href=www.linkedin.com/in/guilhermeff45 target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn logo" />
   </a>
   <a href="mailto:guilhermeferreira564@email.com">
