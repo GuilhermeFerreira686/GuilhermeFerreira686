@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left"Sou Guilherme Ferreira, tenho 21 anos, Apaixonado por tecnologia e inovação, sou estudante de Análise e Desenvolvimento de Sistemas.</h2>
 
 ###
 
