@@ -46,7 +46,7 @@ Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, sempr
 
 <p align="center">
   <!-- 🔗 Substitua o link abaixo pelo repositório do seu projeto -->
-  <a href=https://github.com/LinkEdu-AI/LinkEdu="_blank">
+  <a href="https://github.com/LinkEdu-AI/LinkEdu"="_blank">
     <img src="https://img.shields.io/badge/Acessar%20projeto-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Botão para projeto" />
   </a>
 </p>
