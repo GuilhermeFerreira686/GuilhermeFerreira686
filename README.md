@@ -28,16 +28,7 @@ Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, sempr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 </p>
 
-###
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeFerreira21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFerreira21&layout=compact&theme=dracula" height="150" alt="Top languages" />
-</div>
-
-###
 
 <h3 align="left">📫 Connect with me</h3>
 
@@ -54,10 +45,6 @@ Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, sempr
 ###
 
 <h3 align="left">🐍 My Contributions</h3>
-
-<p align="center">
-  <img src="https://github.com/GuilhermeFerreira21/GuilhermeFerreira21/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ###
 
