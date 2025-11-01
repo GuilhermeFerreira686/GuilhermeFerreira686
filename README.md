@@ -10,8 +10,8 @@ Atualmente sou <b>Desenvolvedor de sistemas</b>, sempre buscando aprimorar minha
 <h3 align="left">💡 About me</h3>
 
 - ✨ Criando soluções desde **2022**  
-- 📚 Atualmente aprendendo **Spring Boot** e **boas práticas com Java**  
-- 🎯 Objetivo: me especializar em **desenvolvimento backend** e **integração de sistemas**  
+- 📚 Atualmente aprendendo **Angular** e **aprimorando minhas práticas na web**  
+- 🎯 Objetivo: me especializar em **desenvolvimento front-end** e **integração de sistemas**  
 - 🎲 Curiosidade: gosto de criar pequenos projetos para automatizar tarefas do dia a dia  
 
 ###
