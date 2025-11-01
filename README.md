@@ -2,7 +2,7 @@
 
 <p align="left">
 Tenho 21 anos e sou apaixonado por <b>tecnologia</b> e <b>inovação</b>.  
-Atualmente sou estudante de <b>Análise e Desenvolvimento de Sistemas</b>, sempre buscando aprimorar minhas habilidades em desenvolvimento e boas práticas de código.
+Atualmente sou <b>Desenvolvedor de sistemas</b>, sempre buscando aprimorar minhas habilidades com boas práticas de código.
 </p>
 
 ###
