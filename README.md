@@ -1,4 +1,4 @@
-<h2 align="left">👋 Sou Guilherme Ferreira</h2>
+<h2 align="left">👋 Oi! Sou o Guilherme</h2>
 
 <p align="left">
 Tenho 21 anos e sou apaixonado por <b>tecnologia</b> e <b>inovação</b>.  
